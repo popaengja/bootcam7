@@ -1,2 +1,2 @@
-# bootcam7
+# bootcamp7
 with datarockie
